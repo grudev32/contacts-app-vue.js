@@ -1,4 +1,4 @@
-# vue-demo-app
+# contacts-app-
 
 ## Project setup
 ```
